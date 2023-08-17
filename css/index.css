@@ -1,0 +1,38 @@
+.cabecera {
+  background-color: cornflowerblue;
+  border: 2px solid black;
+  padding: 30px;
+  margin: 60px 0 40px 0;
+}
+
+.panel {
+  background-color: rgb(213, 76, 76);
+  border: 2px solid black;
+  padding: 200px 0 200px 0;
+  margin: 0 0 40px 0;
+}
+
+.contenido {
+  background-color: rgb(98, 196, 98);
+  border: 2px solid black;
+  padding: 200px 0 200px 0;
+  margin: 0 0 40px 0;
+}
+
+.elemento {
+  border: 2px solid black;
+  background-color: orange;
+  margin: 5px;
+  padding: 80px 5px 80px 5px;
+}
+
+.elemento h2 {
+  font-size: 25px;
+}
+
+.footer {
+  background-color: rgb(173, 72, 173);
+  border: 2px solid black;
+  padding: 80px;
+  margin: 0 0 40px 0;
+}
